@@ -9,7 +9,6 @@ A Java-based application that displays and visualizes weather data using a graph
 - **Project Name:** Weather Data Visualization App  
 - **Course:** CSI 2300 - Java Programming  
 - **Developer:** Manideep Reddy Thalla  
-- **Instructor:** [Your Instructor's Name]
 
 ---
 
