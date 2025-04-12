@@ -7,7 +7,7 @@ import java.net.*;
 import org.json.*;
 
 public class APIHandler {
-    private static final String API_KEY = "27a7c6af262105a0ce0757b3fd2ac3a6"; // your real key
+    private static finalString apiKey = System.getenv("OPENWEATHER_API_KEY"); // ✅ secure
 
     public List<WeatherData> fetchWeatherData(String city) {
         List<WeatherData> weatherList = new ArrayList<>();
